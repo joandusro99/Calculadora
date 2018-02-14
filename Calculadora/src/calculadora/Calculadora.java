@@ -5,6 +5,8 @@
  */
 package calculadora;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Estudiantes
